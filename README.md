@@ -1,1 +1,1 @@
-# UniversityAdministrationTool
+A admninistration tool for a university  database 
